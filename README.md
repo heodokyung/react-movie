@@ -2,6 +2,9 @@
 
 ## 사이트 설명
 React로 구현하고 영화 정보 API를 통해 정보를 가져와서 영화 목록을 보여줍니다.
+화면에 최적화하기 위해 반응형으로 구현되어 있습니다.
+
+![ezgif-3-a05c131f4f](https://user-images.githubusercontent.com/50813871/179461842-5ade0525-6e86-401d-ba2d-0a5de29cc324.gif)
 
 ## 사이트 바로가기
 <a href="https://heodokyung.github.io/react-movie/" target="_blank">[토이프로젝트]영화목록 정보 사이트 만들기</a>
